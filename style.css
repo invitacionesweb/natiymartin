@@ -388,6 +388,7 @@ header h2 {
 
 /* ---------- 7. FORMULARIO ---------- */
 .forms {
+  width: 100vw;
   background-image: url(./newimages/phoneclasic1.png);
   background-size: cover;
   background-repeat: no-repeat;
